@@ -6,7 +6,7 @@ In a normal, uncompressed text, each character is represented by the same  numbe
 
 A Huffman code can be represented by a binary  tree whose leaves represent the characters that should be encoded. The  code tree below can represent the characters A to H.
 
-![img](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/9JcZmiZJEeaqsg6VQGUNXQ_3714009374b825507d45d2c4d74e5651_huffman-table.png?expiry=1585612800000&hmac=N20xuKxe0OJNkYFSlMeX1lyp9JyMqo_OFys3zZI6Oeg)
+![img](https://raw.githubusercontent.com/rafafrdz/practice-huffman-coding-algorithm/master/sample-huffman-coding.png)
 
 The leaf nodes have associated with them a weight which denotes the  frequency of appearance of that character. In the example below, the  character A has the highest weight 8, while F for example has weight 1.
 
